@@ -1,0 +1,10 @@
+
+Foundation.jar
+
+.settings/org.eclipse.jdt.core.prefs
+
+*.class
+
+.project
+
+.classpath
